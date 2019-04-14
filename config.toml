@@ -1,0 +1,60 @@
+# ----------------------------------------------------------------------
+# Config for theme: Aerial
+# ----------------------------------------------------------------------
+
+baseurl             = "https://davidcruwys.com"
+languageCode        = "en-au"
+title               = "David Cruwys"
+theme               = "aerial"
+googleAnalytics     = "UA-45288102-7"
+paginate            = 12
+
+[params]
+  name              = "David Cruwys"
+  about             = "Software Architect &nbsp;&bull;&nbsp; Dancer &nbsp;&bull;&nbsp; LifeTourist"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll         = ""
+  copyright         = "David Cruwys"
+  favicon           = "favicon.png"
+
+[[params.social]]
+  active            = "true"
+  medium            = "Facebook"
+  icon              = "facebook"
+  link              = "https://www.facebook.com/davidcruwys"
+
+[[params.social]]
+  active            = "true"
+  medium            = "Twitter"
+  icon              = "twitter"
+  link              = "https://www.twitter.com/liifetourist"
+
+[[params.social]]
+  active            = "true"
+  medium            = "Instagram"
+  icon              = "instagram"
+  link              = "https://www.instagram.com/liifetourist"
+
+[[params.social]]
+  active            = "false"
+  medium            = "Google+"
+  icon              = "google-plus"
+  link              = "https://plus.google.com/+davidcruwys"
+
+[[params.social]]
+  active            = "true"
+  medium            = "Pinterest"
+  icon              = "pinterest"
+  link              = "https://www.pinterest.com/wholoves"
+
+[[params.social]]
+  active            = "true"
+  medium            = "Github"
+  icon              = "github"
+  link              = "https://github.com/klueless-io"
+
+[[params.social]]
+  active            = "true"
+  medium            = "Email"
+  icon              = "envelope-o"
+  link              = "david+dc@ideasmen.com.au"
