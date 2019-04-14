@@ -57,4 +57,4 @@ paginate            = 12
   active            = "true"
   medium            = "Email"
   icon              = "envelope-o"
-  link              = "david+dc@ideasmen.com.au"
+  link              = "mailto://david+dc@ideasmen.com.au"
