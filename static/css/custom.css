@@ -8,8 +8,7 @@
     top: 0;
 }
 #bg {
-    background-size: 2500px auto;
-    width: 6750px;
+    background-size: 3200px auto;
 }
 @media screen and (max-width: 1680px) {
     #bg {
