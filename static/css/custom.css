@@ -1,4 +1,38 @@
 #bg {
-    /* background: #6F81CB url("images/bg.jpg") bottom left; */
-    background: #348cb2 url("images/bg.jpg") bottom left;
+    background:#5E74BD url("images/bg.jpg") bottom left;
+    background-repeat: repeat-x;
+    height: 100%;
+    left: 0;
+    opacity: 1;
+    position: fixed;
+    top: 0;
 }
+#bg {
+    background-size: 2500px auto;
+    width: 6750px;
+}
+@media screen and (max-width: 1680px) {
+    #bg {
+        background-size: 2500px auto;
+    }
+}
+@media screen and (max-width: 1280px) {
+    #bg {
+        background-size: 1800px auto;
+    }
+}
+@media screen and (max-width: 736px) {
+    #bg {
+        background-size: 1200px auto;
+        /* width: 900px; */
+    }
+}
+@media screen and (max-width: 480px) {
+    #bg {
+        background-size: 1100px auto;
+    }
+}
+
+/* #bg {
+    background-size: 2500px auto;
+} */
