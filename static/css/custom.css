@@ -10,6 +10,10 @@
 #bg {
     background-size: 3200px auto;
 }
+#header p {
+    font-size: 2.25em;
+}
+
 @media screen and (max-width: 1680px) {
     #bg {
         background-size: 2500px auto;
@@ -19,19 +23,28 @@
     #bg {
         background-size: 1800px auto;
     }
+    #header p {
+        font-size: 2em;
+    }
 }
 @media screen and (max-width: 736px) {
     #bg {
         background-size: 1200px auto;
         /* width: 900px; */
     }
+    #header p {
+        font-size: 1.5em;
+    }
 }
 @media screen and (max-width: 480px) {
     #bg {
         background-size: 1100px auto;
     }
-}
 
+}
+#header p {
+
+}
 /* #bg {
     background-size: 2500px auto;
 } */
