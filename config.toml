@@ -18,43 +18,43 @@ paginate            = 12
   favicon           = "favicon.png"
 
 [[params.social]]
-  active            = "true"
+  active            = true
   medium            = "Facebook"
   icon              = "facebook"
   link              = "https://www.facebook.com/davidcruwys"
 
 [[params.social]]
-  active            = "true"
+  active            = true
   medium            = "Twitter"
   icon              = "twitter"
   link              = "https://www.twitter.com/liifetourist"
 
 [[params.social]]
-  active            = "true"
+  active            = true
   medium            = "Instagram"
   icon              = "instagram"
   link              = "https://www.instagram.com/liifetourist"
 
 [[params.social]]
-  active            = "false"
+  active            = false
   medium            = "Google+"
   icon              = "google-plus"
   link              = "https://plus.google.com/+davidcruwys"
 
 [[params.social]]
-  active            = "true"
+  active            = true
   medium            = "Pinterest"
   icon              = "pinterest"
   link              = "https://www.pinterest.com/wholoves"
 
 [[params.social]]
-  active            = "true"
+  active            = true
   medium            = "Github"
   icon              = "github"
   link              = "https://github.com/klueless-io"
 
 [[params.social]]
-  active            = "true"
+  active            = true
   medium            = "Email"
   icon              = "envelope-o"
   link              = "mailto://david+dc@ideasmen.com.au"
